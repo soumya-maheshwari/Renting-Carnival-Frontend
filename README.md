@@ -38,3 +38,9 @@ npm start
  ```CMD
 http://localhost:5173
 ```
+
+
+## Backend Repository
+
+You can find the backend repository for this project at:
+[Renting Carnival Backend](https://github.com/soumya-maheshwari/renting-carnival-backend)
